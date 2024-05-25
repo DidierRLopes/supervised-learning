@@ -13,6 +13,7 @@ numpy = "^1.26.4"
 scikit-learn = "^1.5.0"
 seaborn = "^0.13.2"
 plotly = "^5.22.0"
+jupyter = "^1.0.0"
 
 
 [build-system]
