@@ -34,10 +34,8 @@ The notebooks on this repository are separated into theory and practice.
 
 ### Practice
 
-- Regression examples
-
-- Classification examples:
-   - kNN, Random Forest and SVM
+- Regression examples.
+- Classification examples: kNN, Random Forest and SVM.
 
 ## Get Started
 
