@@ -1,8 +1,10 @@
 # Supervised Learning
 
-This repository will hold the supervised learning content that I will teach at Europeia University on a course about Big Data and Data Analytics.
+This repository will hold the supervised learning content that I teach at Europeia University on a course about Big Data and Data Analytics. Program can be found [here](https://www.europeia.pt/pos-graduacao-data-analytics-big-data-online/) - in portuguese though.
 
-The notebooks on this repository contain:
+The notebooks on this repository are separated into theory and practice.
+
+### Theory
 
 1. Data Collection
    * 1.1\. Data Sources
@@ -29,3 +31,42 @@ The notebooks on this repository contain:
 7. Model Tuning and Selection
    * 7.1\. Hyperparameter Tuning
    * 7.2\. Ensemble Methods
+
+### Practice
+
+- Regression examples
+
+- Classification examples:
+   - kNN, Random Forest and SVM
+
+## Get Started
+
+Ensure that you have install conda.
+
+1. Create a new environment
+
+```python
+conda create -n ml
+```
+
+2. Activate the new environment
+
+```python
+conda activate ml
+```
+
+3. Install poetry with conda
+
+```python
+conda install poetry
+```
+
+4. Install all packages
+
+```python
+poetry install
+```
+
+## Disclaimer
+
+There's a lot that can be improved, so feel free to send a PR with suggestions.
