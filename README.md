@@ -34,8 +34,13 @@ The notebooks on this repository are separated into theory and practice.
 
 ### Practice
 
-- Regression examples.
-- Classification examples: kNN, Random Forest and SVM.
+- [Regression Example](https://colab.research.google.com/github/DidierRLopes/supervised-learning/blob/main/example-regression.ipynb)
+
+- Classification examples:
+
+  - [kNN](https://colab.research.google.com/github/DidierRLopes/supervised-learning/blob/main/example-classification-iris-kNN.ipynb)
+  - [Random Forest](https://colab.research.google.com/github/DidierRLopes/supervised-learning/blob/main/example-classification-cancer-random-forest.ipynb)
+  - [SVM](https://colab.research.google.com/github/DidierRLopes/supervised-learning/blob/main/example-classification-wine-SVM.ipynb) 
 
 ## Get Started
 
