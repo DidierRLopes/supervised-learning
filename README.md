@@ -1,6 +1,8 @@
 # Supervised Learning
 
-This repository will hold the supervised learning content that I teach at Europeia University on a course about Big Data and Data Analytics. Program can be found [here](https://www.europeia.pt/pos-graduacao-data-analytics-big-data-online/) - in portuguese though.
+This repository will hold the supervised learning content that I teach at Europeia University on a course about Big Data and Data Analytics.
+
+The program (in Portuguese) can be found [here](https://www.europeia.pt/pos-graduacao-data-analytics-big-data-online/).
 
 The notebooks on this repository are separated into theory and practice.
 
@@ -33,6 +35,8 @@ The notebooks on this repository are separated into theory and practice.
    * 7.2\. Ensemble Methods
 
 ### Practice
+
+Clicking on the links below will open the notebooks in Colab and allow you to run it on the cloud.
 
 - [Regression Example](https://colab.research.google.com/github/DidierRLopes/supervised-learning/blob/main/example-regression.ipynb)
 
@@ -72,4 +76,4 @@ poetry install
 
 ## Disclaimer
 
-There's a lot that can be improved, so feel free to send a PR with suggestions.
+Much can be improved, so feel free to send a PR with suggestions.
